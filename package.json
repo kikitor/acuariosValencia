@@ -1,0 +1,19 @@
+{
+  "name": "quiz4win",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "start.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "body-parser": "^1.18.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0",
+    "mongoose": "^5.4.20",
+    "connect-mongo": "^2.0.3",
+    "nodemailer": "^4.6.8"
+  }
+}
